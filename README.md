@@ -14,4 +14,4 @@ Upon selecting tip amount, formatted tip value is displayed
 
 Walkthrough : 
 
-![akashagarwal1988.github.com/TipCalculator/tipCalc.gif]
+![alt tag](https://raw.github.com/akashagarwal1988/TipCalculator/master/tipCalc.gif)
